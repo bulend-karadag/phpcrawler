@@ -1,4 +1,4 @@
- # LibGen Chrome Extension
+ # PHP Web Crawler
 
  #### Technologies
  * PHP
