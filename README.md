@@ -7,7 +7,7 @@
  * XML
 
  #### Description
-It is a generic webscrapper written in PHP, which save the content of the target website into an XML file.
+It is a generic web-crawler written in PHP, which save the content of the target website into an XML file.
 
 
  # Installation
